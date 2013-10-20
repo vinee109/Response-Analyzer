@@ -1,6 +1,6 @@
-created by Vineet Jain
-
-Title: Response Analyzer
+Response Analyzer
+=================
+created by Vineet Jain, May-August 2013
 
 This project is used to analyze responses for Teacher evaluations. It retrieves data from a survey and categorizes each
 comment into a cateogry (eg: Organization, Relationship with Students). It then attaches a positive/negative sentiment
